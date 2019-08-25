@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: 기술 블로그
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -67,11 +67,8 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "lkamna12@gmail.com"
+  github: SEOKHYOENCHOI
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
